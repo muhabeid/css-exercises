@@ -1,0 +1,19 @@
+.OddNumber{
+  background-color: pink;
+  font-family: Verdana, Dejavu Sans, sans-serif;
+}
+
+.OddNumber.designed{
+  font-size: 24px;
+}
+
+#Practice1{
+  color: blue;
+  font-size: 36px;
+}
+
+#Practice2{
+  background-color: lightgreen;
+  font-size: 24px;
+  font-weight: bold;
+}
